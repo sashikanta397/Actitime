@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7331" started-at="2018-11-22T15:51:07Z" finished-at="2018-11-22T15:51:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7331" started-at="2018-11-22T15:51:07Z" finished-at="2018-11-22T15:51:14Z">
+      <class name="com.actitime.ProjectAndCustomer_Scripts.CreateProjectTC_04">
+        <test-method status="PASS" signature="preconfig()[pri:0, instance:com.actitime.ProjectAndCustomer_Scripts.CreateProjectTC_04@42d8062c]" name="preconfig" is-config="true" duration-ms="4196" started-at="2018-11-22T15:51:07Z" finished-at="2018-11-22T15:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconfig -->
+        <test-method status="PASS" signature="testCreateProjectTC_04()[pri:0, instance:com.actitime.ProjectAndCustomer_Scripts.CreateProjectTC_04@42d8062c]" name="testCreateProjectTC_04" duration-ms="2471" started-at="2018-11-22T15:51:11Z" finished-at="2018-11-22T15:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateProjectTC_04 -->
+        <test-method status="PASS" signature="postconfig()[pri:0, instance:com.actitime.ProjectAndCustomer_Scripts.CreateProjectTC_04@42d8062c]" name="postconfig" is-config="true" duration-ms="635" started-at="2018-11-22T15:51:13Z" finished-at="2018-11-22T15:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postconfig -->
+      </class> <!-- com.actitime.ProjectAndCustomer_Scripts.CreateProjectTC_04 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
